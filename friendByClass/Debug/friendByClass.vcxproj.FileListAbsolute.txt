@@ -1,0 +1,2 @@
+D:\study_source\cpp_code\test2021.3.1\friendByClass\Debug\friendByClass.exe
+D:\study_source\cpp_code\test2021.3.1\friendByClass\Debug\friendByClass.pdb
